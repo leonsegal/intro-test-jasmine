@@ -1,0 +1,23 @@
+{
+  "name": "intro-test-jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PizzaPokerGuy/intro-test-jasmine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PizzaPokerGuy/intro-test-jasmine/issues"
+  },
+  "homepage": "https://github.com/PizzaPokerGuy/intro-test-jasmine#readme",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
